@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/kogsio/mitfacts#readme",
   "dependencies": {
-    "course-utilities": "^1.0.0",
-    "jest": "^26.1.0"
+    "course-utilities": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
